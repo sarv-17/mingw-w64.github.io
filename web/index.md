@@ -5,7 +5,7 @@
 </h1>
 </header>
 
-# 
+#
 
 Mingw-w64 is a collection of header files, import libraries, libraries and tools
 that, when combined with a compiler toolchain, such as GCC or LLVM, provides a
